@@ -15,7 +15,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: _Housewire_229154215
-    second: {fileID: 2100000, guid: ac496ce3f9997c44d80fd70805c33a98, type: 2}
+    second: {fileID: 2100000, guid: f5e3239ffde091c44ad94044031b46d6, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
